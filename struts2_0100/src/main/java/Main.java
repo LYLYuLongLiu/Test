@@ -12,8 +12,6 @@ public class Main {
         Digui d = new Digui();
         System.out.println(d.swit(3));
     }
-
-
 }
 
 class Digui{
